@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="連江縣及管轄海域" id="連江縣及管轄海域">
+	<SimpleField name="fid" type="float"></SimpleField>
+</Schema>
+<Folder><name>連江縣及管轄海域</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#連江縣及管轄海域">
+		<SimpleData name="fid">1</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>120.489167,26.437222 120.536389,26.425278 120.556111,26.408611 120.575833,26.3875 120.5775,26.359444 120.568056,26.325 120.521667,26.304444 120.461667,26.287222 120.416111,26.351944 120.413056,26.390556 120.446667,26.433333 120.489167,26.437222</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#連江縣及管轄海域">
+		<SimpleData name="fid">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>120.213611,26.404167 120.266667,26.397222 120.289722,26.361389 120.289722,26.325278 120.266667,26.300556 120.246667,26.285 120.220556,26.28 120.177778,26.284167 120.153889,26.32 120.153889,26.351667 120.1675,26.370278 120.180556,26.382222 120.213611,26.404167</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#連江縣及管轄海域">
+		<SimpleData name="fid">3</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>119.941111,26.295556 119.9475,26.306667 119.970833,26.316944 119.982778,26.323056 120.030278,26.325556 120.075556,26.255278 120.075278,26.230278 120.076944,26.212222 120.055833,26.172778 120.021944,26.127778 119.993889,26.08 119.974167,26.085833 119.9275,26.083611 119.866667,26.107778 119.848889,26.144722 119.856111,26.176667 119.875278,26.215 119.926389,26.260833 119.941111,26.295556</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#連江縣及管轄海域">
+		<SimpleData name="fid">4</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>119.938889,26.0375 120.021389,26.0125 120.036944,26.005278 120.05,25.972222 120.033056,25.930833 120.020833,25.9025 119.962222,25.886389 119.921389,25.900556 119.877778,25.909444 119.859167,25.973611 119.875833,26.030278 119.938889,26.0375</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>
